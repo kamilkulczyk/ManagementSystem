@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Z6KDM\\Desktop\\demo\\ManagementSystemApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8932898C-70F2-4371-9A10-4074534612A0}|ManagementSystemApi\\ManagementSystemApi.csproj|c:\\users\\z6kdm\\desktop\\demo\\managementsystemapi\\managementsystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8932898C-70F2-4371-9A10-4074534612A0}|ManagementSystemApi\\ManagementSystemApi.csproj|solutionrelative:managementsystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8932898C-70F2-4371-9A10-4074534612A0}|ManagementSystemApi\\ManagementSystemApi.csproj|c:\\users\\z6kdm\\desktop\\demo\\managementsystemapi\\managementsystemapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8932898C-70F2-4371-9A10-4074534612A0}|ManagementSystemApi\\ManagementSystemApi.csproj|solutionrelative:managementsystemapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8932898C-70F2-4371-9A10-4074534612A0}|ManagementSystemApi\\ManagementSystemApi.csproj|c:\\users\\z6kdm\\desktop\\demo\\managementsystemapi\\managementsystemapi\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8932898C-70F2-4371-9A10-4074534612A0}|ManagementSystemApi\\ManagementSystemApi.csproj|solutionrelative:managementsystemapi\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8932898C-70F2-4371-9A10-4074534612A0}|ManagementSystemApi\\ManagementSystemApi.csproj|c:\\users\\z6kdm\\desktop\\demo\\managementsystemapi\\managementsystemapi\\controllers\\collumncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8932898C-70F2-4371-9A10-4074534612A0}|ManagementSystemApi\\ManagementSystemApi.csproj|solutionrelative:managementsystemapi\\controllers\\collumncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8932898C-70F2-4371-9A10-4074534612A0}|ManagementSystemApi\\ManagementSystemApi.csproj|c:\\users\\z6kdm\\desktop\\demo\\managementsystemapi\\managementsystemapi\\services\\taksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8932898C-70F2-4371-9A10-4074534612A0}|ManagementSystemApi\\ManagementSystemApi.csproj|solutionrelative:managementsystemapi\\services\\taksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8932898C-70F2-4371-9A10-4074534612A0}|ManagementSystemApi\\ManagementSystemApi.csproj|c:\\users\\z6kdm\\desktop\\demo\\managementsystemapi\\managementsystemapi\\services\\collumnservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8932898C-70F2-4371-9A10-4074534612A0}|ManagementSystemApi\\ManagementSystemApi.csproj|solutionrelative:managementsystemapi\\services\\collumnservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8932898C-70F2-4371-9A10-4074534612A0}|ManagementSystemApi\\ManagementSystemApi.csproj|c:\\users\\z6kdm\\desktop\\demo\\managementsystemapi\\managementsystemapi\\models\\column.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8932898C-70F2-4371-9A10-4074534612A0}|ManagementSystemApi\\ManagementSystemApi.csproj|solutionrelative:managementsystemapi\\models\\column.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8932898C-70F2-4371-9A10-4074534612A0}|ManagementSystemApi\\ManagementSystemApi.csproj|c:\\users\\z6kdm\\desktop\\demo\\managementsystemapi\\managementsystemapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8932898C-70F2-4371-9A10-4074534612A0}|ManagementSystemApi\\ManagementSystemApi.csproj|solutionrelative:managementsystemapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8932898C-70F2-4371-9A10-4074534612A0}|ManagementSystemApi\\ManagementSystemApi.csproj|c:\\users\\z6kdm\\desktop\\demo\\managementsystemapi\\managementsystemapi\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8932898C-70F2-4371-9A10-4074534612A0}|ManagementSystemApi\\ManagementSystemApi.csproj|solutionrelative:managementsystemapi\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8932898C-70F2-4371-9A10-4074534612A0}|ManagementSystemApi\\ManagementSystemApi.csproj|c:\\users\\z6kdm\\desktop\\demo\\managementsystemapi\\managementsystemapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8932898C-70F2-4371-9A10-4074534612A0}|ManagementSystemApi\\ManagementSystemApi.csproj|solutionrelative:managementsystemapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8932898C-70F2-4371-9A10-4074534612A0}|ManagementSystemApi\\ManagementSystemApi.csproj|c:\\users\\z6kdm\\desktop\\demo\\managementsystemapi\\managementsystemapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8932898C-70F2-4371-9A10-4074534612A0}|ManagementSystemApi\\ManagementSystemApi.csproj|solutionrelative:managementsystemapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8932898C-70F2-4371-9A10-4074534612A0}|ManagementSystemApi\\ManagementSystemApi.csproj|c:\\users\\z6kdm\\desktop\\demo\\managementsystemapi\\managementsystemapi\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8932898C-70F2-4371-9A10-4074534612A0}|ManagementSystemApi\\ManagementSystemApi.csproj|solutionrelative:managementsystemapi\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CollumnService.cs",
+              "DocumentMoniker": "C:\\Users\\Z6KDM\\Desktop\\demo\\ManagementSystemApi\\ManagementSystemApi\\Services\\CollumnService.cs",
+              "RelativeDocumentMoniker": "ManagementSystemApi\\Services\\CollumnService.cs",
+              "ToolTip": "C:\\Users\\Z6KDM\\Desktop\\demo\\ManagementSystemApi\\ManagementSystemApi\\Services\\CollumnService.cs",
+              "RelativeToolTip": "ManagementSystemApi\\Services\\CollumnService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T10:29:59.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaksService.cs",
+              "DocumentMoniker": "C:\\Users\\Z6KDM\\Desktop\\demo\\ManagementSystemApi\\ManagementSystemApi\\Services\\TaksService.cs",
+              "RelativeDocumentMoniker": "ManagementSystemApi\\Services\\TaksService.cs",
+              "ToolTip": "C:\\Users\\Z6KDM\\Desktop\\demo\\ManagementSystemApi\\ManagementSystemApi\\Services\\TaksService.cs",
+              "RelativeToolTip": "ManagementSystemApi\\Services\\TaksService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T10:28:35.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CollumnController.cs",
+              "DocumentMoniker": "C:\\Users\\Z6KDM\\Desktop\\demo\\ManagementSystemApi\\ManagementSystemApi\\Controllers\\CollumnController.cs",
+              "RelativeDocumentMoniker": "ManagementSystemApi\\Controllers\\CollumnController.cs",
+              "ToolTip": "C:\\Users\\Z6KDM\\Desktop\\demo\\ManagementSystemApi\\ManagementSystemApi\\Controllers\\CollumnController.cs",
+              "RelativeToolTip": "ManagementSystemApi\\Controllers\\CollumnController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T10:24:52.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\Z6KDM\\Desktop\\demo\\ManagementSystemApi\\ManagementSystemApi\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "ManagementSystemApi\\Models\\Status.cs",
+              "ToolTip": "C:\\Users\\Z6KDM\\Desktop\\demo\\ManagementSystemApi\\ManagementSystemApi\\Models\\Status.cs",
+              "RelativeToolTip": "ManagementSystemApi\\Models\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T10:19:12.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\Z6KDM\\Desktop\\demo\\ManagementSystemApi\\ManagementSystemApi\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "ManagementSystemApi\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\Z6KDM\\Desktop\\demo\\ManagementSystemApi\\ManagementSystemApi\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "ManagementSystemApi\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAlwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T10:08:59.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\Z6KDM\\Desktop\\demo\\ManagementSystemApi\\ManagementSystemApi\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "ManagementSystemApi\\Models\\Task.cs",
+              "ToolTip": "C:\\Users\\Z6KDM\\Desktop\\demo\\ManagementSystemApi\\ManagementSystemApi\\Models\\Task.cs",
+              "RelativeToolTip": "ManagementSystemApi\\Models\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T10:08:18.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Z6KDM\\Desktop\\demo\\ManagementSystemApi\\ManagementSystemApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ManagementSystemApi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Z6KDM\\Desktop\\demo\\ManagementSystemApi\\ManagementSystemApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ManagementSystemApi\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T14:56:21.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Z6KDM\\Desktop\\demo\\ManagementSystemApi\\ManagementSystemApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ManagementSystemApi\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Z6KDM\\Desktop\\demo\\ManagementSystemApi\\ManagementSystemApi\\Models\\User.cs",
+              "RelativeToolTip": "ManagementSystemApi\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T14:51:18.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Column.cs",
+              "DocumentMoniker": "C:\\Users\\Z6KDM\\Desktop\\demo\\ManagementSystemApi\\ManagementSystemApi\\Models\\Column.cs",
+              "RelativeDocumentMoniker": "ManagementSystemApi\\Models\\Column.cs",
+              "ToolTip": "C:\\Users\\Z6KDM\\Desktop\\demo\\ManagementSystemApi\\ManagementSystemApi\\Models\\Column.cs",
+              "RelativeToolTip": "ManagementSystemApi\\Models\\Column.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T14:51:17.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Z6KDM\\Desktop\\demo\\ManagementSystemApi\\ManagementSystemApi\\Program.cs",
+              "RelativeDocumentMoniker": "ManagementSystemApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Z6KDM\\Desktop\\demo\\ManagementSystemApi\\ManagementSystemApi\\Program.cs",
+              "RelativeToolTip": "ManagementSystemApi\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T13:40:35.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Z6KDM\\Desktop\\demo\\ManagementSystemApi\\ManagementSystemApi\\DataContext.cs",
+              "RelativeDocumentMoniker": "ManagementSystemApi\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Z6KDM\\Desktop\\demo\\ManagementSystemApi\\ManagementSystemApi\\DataContext.cs",
+              "RelativeToolTip": "ManagementSystemApi\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T13:34:25.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Z6KDM\\Desktop\\demo\\ManagementSystemApi\\ManagementSystemApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ManagementSystemApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Z6KDM\\Desktop\\demo\\ManagementSystemApi\\ManagementSystemApi\\appsettings.json",
+              "RelativeToolTip": "ManagementSystemApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-07T13:28:35.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
