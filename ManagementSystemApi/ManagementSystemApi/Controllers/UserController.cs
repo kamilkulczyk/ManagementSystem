@@ -19,7 +19,7 @@ namespace ManagementSystemApi.Controllers
     public async Task<IActionResult> GetUsers()
     {
       var response = await _supabase.From<User>().Get();
-      return Ok(response.Models);  // Return users from Supabase
+      return Ok(response.Models);
     }
 
     [HttpGet("{id}")]
@@ -45,7 +45,7 @@ namespace ManagementSystemApi.Controllers
     [HttpPut("{id}")]
     public async Task<IActionResult> UpdateUser(Guid id, [FromBody] User user)
     {
-      user.Id = id; // Ensure ID remains the same
+      user.Id = id;
       var response = await _supabase.From<User>().Update(user);
       return Ok(response.Models.First());
     }

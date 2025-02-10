@@ -1,0 +1,45 @@
+/* Column container */
+.column {
+    background-color: #f4f4f4; /* Light grey */
+    padding: 16px;
+    border-radius: 8px;
+    min-width: 250px;
+    max-width: 300px;
+    text-align: center;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Column Title */
+  .column-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  /* Task List */
+  .task-list {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+  
+  /* Individual Task */
+  .task {
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    transition: 0.2s;
+  }
+  
+  .task:hover {
+    background-color: #e0e0e0;
+  }
+  
+  /* Empty Task Message */
+  .empty-task {
+    font-style: italic;
+    color: #888;
+  }
+  

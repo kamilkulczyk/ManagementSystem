@@ -1,0 +1,10 @@
+/* Flexbox layout for columns */
+.task-columns {
+    display: flex;
+    gap: 16px;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 16px;
+    overflow-x: auto; /* Enable horizontal scrolling if too many columns */
+  }
+  

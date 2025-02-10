@@ -68,3 +68,4 @@ C:\Users\Z6KDM\Desktop\demo\ManagementSystemApi\ManagementSystemApi\bin\Debug\ne
 C:\Users\Z6KDM\Desktop\demo\ManagementSystemApi\ManagementSystemApi\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
 C:\Users\Z6KDM\Desktop\demo\ManagementSystemApi\ManagementSystemApi\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\Z6KDM\Desktop\demo\ManagementSystemApi\ManagementSystemApi\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Z6KDM\Desktop\demo\ManagementSystemApi\ManagementSystemApi\obj\Debug\net8.0\ManagementSystemApi.sourcelink.json

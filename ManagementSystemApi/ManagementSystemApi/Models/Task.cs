@@ -18,9 +18,6 @@ namespace ManagementSystemApi.Models
     [Column("Description")]
     public string Description { get; set; }
 
-    [Column("ColumnId")]
-    public Guid? ColumnId { get; set; }
-
     [Column("StatusId")]
     public Guid StatusId { get; set; }
 

@@ -46,7 +46,7 @@ namespace ManagementSystemApi.Services
     public async Task<bool> DeleteTask(Guid taskId)
     {
       await _supabase.From<Task>()
-        .Filter("id", Postgrest.Constants.Operator.Equals, taskId)
+        .Filter("id", Postgrest.Constants.Operator.Equals, taskId.ToString())
         .Delete();
 
       return true;
