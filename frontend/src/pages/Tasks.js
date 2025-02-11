@@ -5,15 +5,15 @@ import TaskForm from "../components/TaskForm";
 function Tasks() {
     const [reload, setReload] = useState(false);
   
-    const handleTaskAdded = () => {
-      setReload(!reload);
+    const handleReload = () => {
+        setReload(prev => !prev);
     };
   
     return (
       <div>
         <h1>Task Management</h1>
-        <TaskForm onTaskAdded={handleTaskAdded} />
-        <TaskColumns reload={reload} />
+        <TaskForm onTaskAdded={handleReload} />
+        <TaskColumns reload={reload} onTaskDeleted={handleReload}/>
       </div>
     );
   }

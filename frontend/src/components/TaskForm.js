@@ -30,6 +30,7 @@ function TaskForm({ onTaskAdded }) {
       title,
       description,
       statusId,
+      creationTime: new Date().toISOString(),
       assignedUser: userId || null, // Allow null users
     };
 

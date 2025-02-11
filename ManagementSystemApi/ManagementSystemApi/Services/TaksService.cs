@@ -23,7 +23,7 @@ namespace ManagementSystemApi.Services
     public async Task<Task?> GetTaskById(Guid taskId)
     {
       return await _supabase.From<Task>()
-          .Filter("id", Postgrest.Constants.Operator.Equals, taskId)
+          .Filter("id", Postgrest.Constants.Operator.Equals, taskId.ToString())
       .Single();
     }
 

@@ -1,6 +1,8 @@
 /* Column container */
 .column {
-    background-color: #f4f4f4; /* Light grey */
+    border-radius: 5px;
+    background: #f8f9fa;
+    min-height: 200px;
     padding: 16px;
     border-radius: 8px;
     min-width: 250px;
@@ -42,4 +44,9 @@
     font-style: italic;
     color: #888;
   }
+  
+  .column.highlight {
+    background: #d1ecf1; /* Light blue when hovered */
+  }
+  
   

@@ -1,12 +1,13 @@
 import React, { useEffect, useState } from "react";
 import { getColumns, getTasks } from "../api/api";
 import Column from "./Column";
+import { DndProvider } from "react-dnd"; // Import Drag-and-Drop provider
+import { HTML5Backend } from "react-dnd-html5-backend";
 import "./TaskColumnStyle.css";
 
-function TaskColumns() {
+function TaskColumns({ reload }) {
   const [columns, setColumns] = useState([]);
   const [tasks, setTasks] = useState([]);
-  const [reload, setReload] = useState(false); // ✅ State to trigger reload
 
   const fetchData = async () => {
     try {
@@ -21,23 +22,26 @@ function TaskColumns() {
 
   useEffect(() => {
     fetchData();
-  }, [reload]); // ✅ Reload when state changes
+  }, [reload]);
 
   return (
-    <div className="task-columns">
-      {columns.length === 0 ? (
-        <p>No columns available.</p>
-      ) : (
-        columns.map((column) => (
-          <Column
-            key={column.id}
-            name={column.name}
-            tasks={tasks.filter((task) => task.statusId === column.statusId)}
-            onTaskDeleted={() => setReload(!reload)} // ✅ Trigger refresh on deletion
-          />
-        ))
-      )}
-    </div>
+    <DndProvider backend={HTML5Backend}>
+      <div className="task-columns">
+        {columns.length === 0 ? (
+          <p>No columns available.</p>
+        ) : (
+          columns.map((column) => (
+            <Column
+              key={column.id}
+              name={column.name}
+              statusId={column.statusId} // ✅ Pass statusId
+              tasks={tasks.filter((task) => task.statusId === column.statusId)}
+              onTaskUpdated={fetchData} // ✅ Refresh tasks on update
+            />
+          ))
+        )}
+      </div>
+    </DndProvider>
   );
 }
 

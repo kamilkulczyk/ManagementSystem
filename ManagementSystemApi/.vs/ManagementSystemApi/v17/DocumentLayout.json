@@ -49,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8932898C-70F2-4371-9A10-4074534612A0}|ManagementSystemApi\\ManagementSystemApi.csproj|c:\\users\\z6kdm\\desktop\\demo\\managementsystemapi\\managementsystemapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8932898C-70F2-4371-9A10-4074534612A0}|ManagementSystemApi\\ManagementSystemApi.csproj|solutionrelative:managementsystemapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8932898C-70F2-4371-9A10-4074534612A0}|ManagementSystemApi\\ManagementSystemApi.csproj|c:\\users\\z6kdm\\desktop\\demo\\managementsystemapi\\managementsystemapi\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8932898C-70F2-4371-9A10-4074534612A0}|ManagementSystemApi\\ManagementSystemApi.csproj|solutionrelative:managementsystemapi\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,8 +70,7 @@
               "RelativeToolTip": "ManagementSystemApi\\Controllers\\StatusController.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAowDQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T19:45:47.623Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T19:45:47.623Z"
             },
             {
               "$type": "Document",
@@ -97,7 +92,7 @@
               "RelativeDocumentMoniker": "ManagementSystemApi\\Services\\TaksService.cs",
               "ToolTip": "C:\\Users\\Z6KDM\\Desktop\\demo\\ManagementSystemApi\\ManagementSystemApi\\Services\\TaksService.cs",
               "RelativeToolTip": "ManagementSystemApi\\Services\\TaksService.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAADwvzMAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T10:28:35.896Z",
               "EditorCaption": ""
@@ -112,8 +107,7 @@
               "RelativeToolTip": "ManagementSystemApi\\Controllers\\CollumnController.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T10:24:52.882Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T10:24:52.882Z"
             },
             {
               "$type": "Document",
@@ -135,7 +129,7 @@
               "RelativeDocumentMoniker": "ManagementSystemApi\\Controllers\\TaskController.cs",
               "ToolTip": "C:\\Users\\Z6KDM\\Desktop\\demo\\ManagementSystemApi\\ManagementSystemApi\\Controllers\\TaskController.cs",
               "RelativeToolTip": "ManagementSystemApi\\Controllers\\TaskController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAIwEUAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwEUAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T10:08:59.966Z",
               "EditorCaption": ""
@@ -148,7 +142,7 @@
               "RelativeDocumentMoniker": "ManagementSystemApi\\Models\\Task.cs",
               "ToolTip": "C:\\Users\\Z6KDM\\Desktop\\demo\\ManagementSystemApi\\ManagementSystemApi\\Models\\Task.cs",
               "RelativeToolTip": "ManagementSystemApi\\Models\\Task.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T10:08:18.54Z",
               "EditorCaption": ""
@@ -163,8 +157,7 @@
               "RelativeToolTip": "ManagementSystemApi\\Controllers\\UserController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwCoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T14:56:21.214Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-07T14:56:21.214Z"
             },
             {
               "$type": "Document",
@@ -188,8 +181,7 @@
               "RelativeToolTip": "ManagementSystemApi\\Models\\Column.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAIwA8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T14:51:17.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-07T14:51:17.087Z"
             },
             {
               "$type": "Document",
@@ -201,20 +193,7 @@
               "RelativeToolTip": "ManagementSystemApi\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T13:40:35.77Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "C:\\Users\\Z6KDM\\Desktop\\demo\\ManagementSystemApi\\ManagementSystemApi\\DataContext.cs",
-              "RelativeDocumentMoniker": "ManagementSystemApi\\DataContext.cs",
-              "ToolTip": "C:\\Users\\Z6KDM\\Desktop\\demo\\ManagementSystemApi\\ManagementSystemApi\\DataContext.cs",
-              "RelativeToolTip": "ManagementSystemApi\\DataContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T13:34:25.443Z"
+              "WhenOpened": "2025-02-07T13:40:35.77Z"
             },
             {
               "$type": "Document",
